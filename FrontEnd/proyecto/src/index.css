@@ -1,0 +1,108 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+h1, h2{
+  text-align: center;
+  margin: 20px;
+}
+
+.divButton{
+  display: flex;
+  justify-content: center;
+}
+
+.divForm{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100%;
+
+}
+
+.form{
+  width: 100%;
+}
+
+.imge{
+  width: 100%;
+  border-radius: 30px;
+  
+}
+
+.div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.text{
+  display: flex;
+  justify-content: flex-start;
+}
+
+*{
+  margin: 0;
+}
+
+.conta{
+  text-align: center;
+  margin: 0;
+  width: 100%;
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.contenedor{
+  text-align: center;
+  margin: 0;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+}
+.gif{
+  width: 40%;
+  margin-top: 20px;
+}
+
+.link{
+  margin: 10px;
+}
+
+.alerta{
+  margin-top: 90px;
+}
+
+.direccionColumn{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn{
+  margin-left: 5px;
+}
+
+nav{
+  width: 100%;
+}
